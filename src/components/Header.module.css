@@ -1,0 +1,10 @@
+.header {
+  grid-area: header;
+
+  display: grid;
+  place-content: center;
+
+  height: 12.5rem;
+
+  background-color: var(--Gray-700);
+}
